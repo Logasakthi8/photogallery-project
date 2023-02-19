@@ -1,4 +1,4 @@
-# photoframe-project
+# photogallery-project
 
        * It is a simple Photo gallery project 
        * html and CSS are only used to made this project
